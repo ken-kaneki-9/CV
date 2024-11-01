@@ -1,0 +1,47 @@
+/* * {
+  background-color: black;
+  font-family: "Poppins", sans-serif;
+} */
+
+/* .header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 3rem 9%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+} */
+
+/* .logo {
+  font-size: 3rem;
+  color: aliceblue;
+  font-weight: 800;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+.logo:hover {
+  transform: scale(1.1);
+  color: red;
+} */
+
+/* .navbar a {
+  font-size: 1.8rem;
+  color: aliceblue;
+  margin-left: 4rem;
+  font-weight: 500;
+  transition: 0.3s ease;
+  border-bottom: none; /* Ensure no border by default */
+/* text-decoration: none; Remove default underline */
+/* } */
+
+/* .navbar a:hover,
+.navbar a.active {
+  color: red;
+  border-bottom: 3px solid red; /* Border appears only on hover/active */
+/* text-decoration: none; Ensure no underline even on hover */
+/* } */
